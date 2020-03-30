@@ -1,0 +1,37 @@
+[
+  {
+    "name": "movie 1",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Horror"
+  },
+  {
+    "name": "movie 2",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Sci-fi"
+  },
+  {
+    "name": "movie 3",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Thriller"
+  },
+  {
+    "name": "movie 4",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Romance"
+  },
+  {
+    "name": "movie 5",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Biography"
+  },
+  {
+    "name": "movie 5",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Horror"
+  },
+  {
+    "name": "movie 1",
+    "imagePath": "R.drawable.movie1",
+    "genre": "Thriller"
+  }
+]
